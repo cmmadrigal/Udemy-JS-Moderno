@@ -1,0 +1,26 @@
+Variables; 
+Strings o Cadenas de Texto y sus Métodos; 
+Números; 
+Operadores; 
+Booleans; 
+Objetos; 
+Arrays o Arreglos; 
+Funciones; 
+Estructuras de control; 
+Iteradores; 
+Array Methods; 
+DOM; 
+Eventos; 
+LocalStorage; 
+Fechas; 
+Prototypes; 
+POO; 
+Sets Maps y Symbols; 
+Modulos; 
+Promises, 
+callbacks y Programación asíncrona; 
+Async Await; 
+Functional Javascript; 
+Dominando Javascript;
+API's en Javascript;
+Fetch API;
